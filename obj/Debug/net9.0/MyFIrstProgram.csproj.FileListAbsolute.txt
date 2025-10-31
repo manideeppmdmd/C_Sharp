@@ -1,0 +1,14 @@
+/Users/manideeppilli/Documents/Dot Net/MyFIrstProgram/bin/Debug/net9.0/MyFIrstProgram
+/Users/manideeppilli/Documents/Dot Net/MyFIrstProgram/bin/Debug/net9.0/MyFIrstProgram.deps.json
+/Users/manideeppilli/Documents/Dot Net/MyFIrstProgram/bin/Debug/net9.0/MyFIrstProgram.runtimeconfig.json
+/Users/manideeppilli/Documents/Dot Net/MyFIrstProgram/bin/Debug/net9.0/MyFIrstProgram.dll
+/Users/manideeppilli/Documents/Dot Net/MyFIrstProgram/bin/Debug/net9.0/MyFIrstProgram.pdb
+/Users/manideeppilli/Documents/Dot Net/MyFIrstProgram/obj/Debug/net9.0/MyFIrstProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manideeppilli/Documents/Dot Net/MyFIrstProgram/obj/Debug/net9.0/MyFIrstProgram.AssemblyInfoInputs.cache
+/Users/manideeppilli/Documents/Dot Net/MyFIrstProgram/obj/Debug/net9.0/MyFIrstProgram.AssemblyInfo.cs
+/Users/manideeppilli/Documents/Dot Net/MyFIrstProgram/obj/Debug/net9.0/MyFIrstProgram.csproj.CoreCompileInputs.cache
+/Users/manideeppilli/Documents/Dot Net/MyFIrstProgram/obj/Debug/net9.0/MyFIrstProgram.dll
+/Users/manideeppilli/Documents/Dot Net/MyFIrstProgram/obj/Debug/net9.0/refint/MyFIrstProgram.dll
+/Users/manideeppilli/Documents/Dot Net/MyFIrstProgram/obj/Debug/net9.0/MyFIrstProgram.pdb
+/Users/manideeppilli/Documents/Dot Net/MyFIrstProgram/obj/Debug/net9.0/MyFIrstProgram.genruntimeconfig.cache
+/Users/manideeppilli/Documents/Dot Net/MyFIrstProgram/obj/Debug/net9.0/ref/MyFIrstProgram.dll
