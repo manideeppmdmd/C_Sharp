@@ -12,3 +12,4 @@
 /Users/manideeppilli/Documents/Dot Net/MyFIrstProgram/obj/Debug/net9.0/MyFIrstProgram.pdb
 /Users/manideeppilli/Documents/Dot Net/MyFIrstProgram/obj/Debug/net9.0/MyFIrstProgram.genruntimeconfig.cache
 /Users/manideeppilli/Documents/Dot Net/MyFIrstProgram/obj/Debug/net9.0/ref/MyFIrstProgram.dll
+/Users/manideeppilli/Documents/Dot Net/MyFIrstProgram/obj/Debug/net9.0/MyFIrstProgram.sourcelink.json

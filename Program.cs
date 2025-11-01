@@ -6,10 +6,17 @@ namespace Program
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("This is a sample C# program.");
-            Console.Beep();
-        }
+        // static void Main(string[] args)
+        // {
+
+        //     // dotnet run to execute the program
+
+        //     //Prints without a new line
+        //     Console.Write("Hello, World! ");
+
+        //     //Prints in a new line
+        //     Console.WriteLine("This is a sample C# program.");
+            
+        // }
     }
 }
