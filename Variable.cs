@@ -227,9 +227,9 @@ class Variable
 
         /****         foreach loop         ****/
 
-        foreach (String car in cars)
+        foreach (String cara in cars)
         {
-            Console.WriteLine(car);
+            Console.WriteLine(cara);
         }
 
 
@@ -510,7 +510,7 @@ Purpose: virtual methods provide a default behavior that can be customized by de
         }
     } 
         
-        enum PlanetRadius
+    enum PlanetRadius
     {
         Mercury = 2439,
         Venus = 6051,
